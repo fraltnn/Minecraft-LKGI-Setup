@@ -12,7 +12,7 @@
 | _Java 17_ | Необходима для запуска игры| [Скачать](https://download.oracle.com/java/17/archive/jdk-17.0.9_windows-x64_bin.exe)|
 | _PollyMC_ | Лаунчер| [Скачать](https://github.com/fn2006/PollyMC/releases/download/8.0/PollyMC-Windows-MinGW-w64-Setup-8.0.exe) |
 | _Radmin VPN_ | Аналог Hamachi для локалки|[Скачать](https://download.radmin-vpn.com/download/files/Radmin_VPN_1.4.4642.1.exe)|
-| _Моды_ | Пудж дота 2 |[Скачать](https://disk.yandex.ru/d/TX7Vky8683xdUQ)|
+| _Моды_ | Пудж дота 2 |[Скачать](https://disk.yandex.ru/d/uiHdDUP15W2wbw)|
 
 ## 2. Установка
 ### Шаг 1 - Java 17 
